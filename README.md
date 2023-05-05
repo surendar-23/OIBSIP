@@ -6,4 +6,4 @@
                                    
 * Task 4 : Email Spam Detection :
 
-* Task 5 : Sales Price Prediction :
+* Task 5 : Sales Price Prediction : https://tinyurl.com/sales-prediction
